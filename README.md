@@ -2,7 +2,7 @@
 
 I'm a third-year Computer Science & Engineering student at United International University in Dhaka, and I've worked as a graphic designer for more than five years. The two feed each other: I sketch an interface before I write it, and I like automating the repetitive parts of both jobs.
 
-On the design side, most of my work is brand identities, vector illustration, mascot art and posters. Over 10,500 of those assets are live on Adobe Stock and Freepik. On the engineering side I mostly write Java and C++, and I'm comfortable with React, Node.js and MySQL when a project needs a web front end and a database.
+On the design side, most of my work is brand identities, vector illustration, mascot art and posters. Over 10,500 of those assets are live on Adobe Stock and Freepik. On the engineering side I mostly write Python, Java and C++, and I'm comfortable with React, Node.js and MySQL when a project needs a web front end and a database.
 
 ## Selected projects
 
@@ -20,7 +20,7 @@ Coursework: [JavaFX](https://github.com/splashahnaf445/JavaFX) (OOP and GUI prog
 
 | | |
 |---|---|
-| **Languages** | Java, C++, JavaScript |
+| **Languages** | Python, Java, C++, JavaScript |
 | **Web and data** | React, Node.js, MySQL |
 | **Networking** | Cisco Packet Tracer: static routing, RIP, OSPF, DHCP, ACLs |
 | **Hardware** | Arduino |
