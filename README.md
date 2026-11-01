@@ -22,7 +22,6 @@ On the design side, most of my work is brand identities, vector illustration, ma
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Seekr**](https://github.com/splashahnaf445/Seekr) | Lost-and-found portal for university campuses: report an item, search the feed, message, claim, with an admin dashboard | React, Node.js, MySQL |
 | [**LawAid**](https://github.com/splashahnaf445/LawAid) | AI-assisted legal consultation platform for Bangladesh. Full SRS, UML set and a 13-screen Figma prototype from a team project (design phase complete) | Figma, UML, SRS |
 | [**Tuition Fee Calculator**](https://github.com/splashahnaf445/Tutionfee-calculator) | Works out fees from credit matrices and waiver rules | Java Swing |
 | [**Computer Networks**](https://github.com/splashahnaf445/Computer-Networks) | Lab work in Cisco Packet Tracer: a 6-router enterprise network running RIP v2 and OSPF, VLSM and DHCP, an ACL exercise | Cisco IOS |
