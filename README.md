@@ -33,9 +33,9 @@ Coursework: [JavaFX](https://github.com/splashahnaf445/JavaFX) (OOP and GUI prog
 | | |
 |---|---|
 | **Languages** | Python, Java, C++, JavaScript |
-| **Web and data** | React, Node.js, MySQL |
-| **Networking** | Cisco Packet Tracer: static routing, RIP, OSPF, DHCP, ACLs |
-| **Hardware** | Arduino |
+| **Web and data** | React, Node.js, MySQL, Django |
+| **Networking** | Cisco Packet Tracer static routing, RIP, OSPF, DHCP, ACLs |
+| **Hardware** | Arduino, ESP32, Raspberry Pi |
 | **Design** | Illustrator, Photoshop, Figma, Canva |
 
 ## Elsewhere
